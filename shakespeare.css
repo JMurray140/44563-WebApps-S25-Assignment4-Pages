@@ -1,0 +1,45 @@
+h5 {
+    background-color: rgb(167, 43, 126);
+    font-family:Arial;
+    font-size: large;
+    text-align: left;
+}
+h4.stage-direction:hover{
+    background-color:rgb(100, 187, 238);
+    font-size:larger;
+    color:brown
+}
+body.speech{
+    color:black;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font:italic
+}
+body{
+    color:black;
+    text-align: center;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color:rgb(179, 226, 250);
+}
+h5.A{
+    color:rgb(95, 224, 108);
+}
+h5.L{
+    color:aquamarine;
+}
+table, th, td{
+    width:30%;
+    padding:5px;
+    margin:auto;
+    border: 1px ridge;
+    background-color:rgb(53, 77, 122);
+    color:rgb(234, 214, 255);
+    text-align:center;
+}
+td.stripe{
+    background-color: rgb(81, 102, 141)
+}
+h5:hover{
+    text-shadow: 2px 2px 5px rgb(255, 255, 19);
+
+}
